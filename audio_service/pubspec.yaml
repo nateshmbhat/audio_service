@@ -8,8 +8,8 @@ topics:
   - background
 
 environment:
-  sdk: ">=3.3.0 <4.0.0"
-  flutter: ">=3.0.0"
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
 
 dependencies:
   # Use these deps for local development
